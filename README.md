@@ -2,14 +2,6 @@
 
 [![ML-APP](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity?branch=main)
 
-# Example:
-
-<!-- [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs) -->
-
-# Example for specific branch:
-
-<!-- [![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5) -->
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
