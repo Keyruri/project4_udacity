@@ -1,6 +1,6 @@
 # Template:
 
-[![ML-APP](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity?branch=main)
+[![CircleCI](https://circleci.com/gh/project4_udacity/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/Keyruri/project4_udacity)
 
 ## Project Overview
 
