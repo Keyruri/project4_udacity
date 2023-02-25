@@ -56,11 +56,11 @@ source .devops/bin/activate
 
 ### File Contents
 
-- app.py: Main File for the Ml Application
-- Dockerfile: Used to create Docker Image
-- make_prediction.sh: When passed with data it makes predictions
-- Makefile: Used to call different Commands
-- requirements.txt: Lists all dependancies required in the project
-- run_docker.sh: Run the application in docker
-- run_kubernetes.sh: Run the application in kubernetes
-- upload_docker.sh: Used to upload Docker Image to a repository
+- `app.py`: Main File for the Ml Application
+- `Dockerfile`: Used to create Docker Image
+- `make_prediction.sh`: When passed with data it makes predictions
+- `Makefile`: Used to call different Commands
+- `requirements.txt`: Lists all dependancies required in the project
+- `run_docker.sh:` Run the application in docker
+- `run_kubernetes.sh`: Run the application in kubernetes
+- `upload_docker.sh`: Used to upload Docker Image to a repository
