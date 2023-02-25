@@ -1,6 +1,6 @@
 # Template:
 
-[![CircleCI](https://circleci.com/gh/project4_udacity/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/Keyruri/project4_udacity)
+[![CircleCI](https://circleci.com/gh/Keyruri/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/Keyruri/project4_udacity)
 
 ## Project Overview
 
