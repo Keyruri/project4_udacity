@@ -1,11 +1,10 @@
 # Template:
 
-[![ML APP](https://app.circleci.com/pipelines/github/Keyruri/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/Keyruri/project4_udacity?branch=main)
+[![ML-APP](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity.svg?style=svg)](https://app.circleci.com/pipelines/gh/Keyruri/project4_udacity?branch=main)
 
 # Example:
 
-<!--
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs) -->
+<!-- [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs) -->
 
 # Example for specific branch:
 
