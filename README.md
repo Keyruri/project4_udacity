@@ -54,7 +54,7 @@ source .devops/bin/activate
 - Create Flask app in Container
 - Run via kubectl
 
-### Kubernetes Steps
+### File Contents
 
 - app.py: Main File for the Ml Application
 - Dockerfile: Used to create Docker Image
